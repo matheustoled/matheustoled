@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Matheus Toledo 
 
-![matheustoled's Stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![matheustoled's Stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![matheustoled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustoled&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+![matheustoled's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheustoled&theme=nord&hide_border=true)
+
+![matheustoled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustoled&theme=nord&show_icons=true&hide_border=true&layout=compact)
