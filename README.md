@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Toledo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=github_dark_dimmed&show_icons=true)
   
   ##
  
