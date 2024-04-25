@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Toledo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=dracula&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
