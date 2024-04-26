@@ -1,10 +1,7 @@
 ## Olá! Eu sou o Matheus Toledo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustoled&theme=github_dark_dimmed&show_icons=true)
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/matheus.toled/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-coelho-2b6129260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheustoled&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustoled&layout=compact&langs_count=16&theme=dracula"/>
 </div>
