@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Matheus Toledo</h1>
 <h3 align="left">Computer Science student at UFV, passionate about programming challenges and innovation.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matheustoled?tab=repositories](https://github.com/matheustoled?tab=repositories)
 
